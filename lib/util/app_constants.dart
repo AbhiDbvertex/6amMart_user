@@ -16,7 +16,7 @@ class AppConstants {
 
   // static const String baseUrl = 'https://6ammart-admin.6amtech.com';
   // static const String baseUrl = 'https://6ammart.com';
-  static const String baseUrl = 'https://try8now.com';
+  static const String baseUrl = 'https://admin.try8now.com';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
   static const String storeItemUri = '/api/v1/items/latest';
