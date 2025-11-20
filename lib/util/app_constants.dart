@@ -4,7 +4,7 @@ import 'package:sixam_mart/features/language/domain/models/language_model.dart';
 import 'package:sixam_mart/util/images.dart';
 
 class AppConstants {
-  static const String appName = '6amMart';
+  static const String appName = 'try8now';
   static const double appVersion = 3.4; ///Flutter sdk 3.35.6
 
   static const String fontFamily = 'Roboto';
